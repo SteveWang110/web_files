@@ -1,0 +1,96 @@
+body,html {
+  background-image: url("https://pngimg.com/uploads/water/water_PNG50240.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-color: lightblue;
+
+}
+
+h1 {
+    color: Black;
+    text-align: center;
+    font-size: 60px;
+}
+
+h2 {
+    color: black;
+    text-align: right;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+h4{
+  color: black;
+  text-align: center;
+  font-size: 30px;
+ 
+
+}
+h5 {
+  color: white;
+  text-align: left;
+}
+h6{
+  color: black;
+  text-align: left;
+  font-size: 30px;
+ 
+
+}
+h7{
+  color: darkred;
+  text-align: center;
+  font-size: 40px;
+ 
+
+}
+.place {
+    float: left;
+}
+.place2{
+  float: inline-end;
+}
+
+#left {
+    width: 65%;
+    margin: 0 2%;
+    border: solid 3px black;
+
+}
+#left3 {
+  width: 25%;
+  margin: 0 2%;
+
+}
+#left2 {
+  width: 65%;
+  margin: 0 2%;
+  border: solid 3px black;
+
+}#left4 {
+  width: 38%;
+  margin: 0 2%;
+
+
+}
+#left5 {
+  width: 44%;
+  margin: 0 2%;
+
+
+}
+#right {
+    width: 30%;
+    margin: 0 5%;
+}
+#right2 {
+  width: 30%;
+  margin: 0 5%;
+}
+#right3 {
+  width: 30%;
+  margin: 0 5%;
+}

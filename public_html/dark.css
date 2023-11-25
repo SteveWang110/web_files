@@ -1,0 +1,95 @@
+body,html {
+    background-image: url("https://pngimg.com/uploads/cloud/cloud_PNG30.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    background-color: lightgrey;
+  
+  }
+  
+  h1 {
+      color: brown;
+      text-align: center;
+      font-size:55px;
+  }
+  
+  h2 {
+    color: brown;
+    text-align: right;
+  }
+  
+  h3 {
+      color: white;
+      text-align: center;
+  }
+  h4{
+    color: brown;
+    text-align: center;
+    font-size: 25px;
+   
+  
+  }
+  h5 {
+    color: white;
+    text-align: left;
+  }
+  h6{
+    color: brown;
+    text-align: left;
+    font-size: 25px;
+   
+  
+  }
+  h7{
+    color: darkblue;
+    text-align: center;
+    font-size: 35px;
+   
+  
+  }
+  .place {
+      float: right;
+  }
+  .place2{
+    float: inline-end;
+  }
+  
+  #left {
+      width: 65%;
+      margin: 0 2%;
+  
+  }
+  #left3 {
+    width: 25%;
+    margin: 0 2%;
+  
+  }
+  #left2 {
+    width: 65%;
+    margin: 0 2%;
+  
+  }#left4 {
+    width: 38%;
+    margin: 0 2%;
+  
+  
+  }
+  #left5 {
+    width: 44%;
+    margin: 0 2%;
+  
+  
+  }
+  #right {
+      width: 30%;
+      margin: 0 5%;
+  }
+  #right2 {
+    width: 30%;
+    margin: 0 5%;
+  }
+  #right3 {
+    width: 30%;
+    margin: 0 5%;
+  }
+
