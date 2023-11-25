@@ -1,5 +1,0 @@
-var searchData=
-[
-  ['load_20balancer_20steve_0',['Load-Balancer-Steve',['../md__c_s_c_e313_2_load-_balancer-_steve_2_r_e_a_d_m_e.html',1,'']]],
-  ['loadbalancer_1',['LoadBalancer',['../class_load_balancer.html',1,'']]]
-];
